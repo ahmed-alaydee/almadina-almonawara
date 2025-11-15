@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./Navbar.css";
-import Logo from "../images/Logo.png";
-import Logowight from "../images/logowight.png";
+import Logo from "../../images/Logo.png";
+import Logowight from "../../images/logowight.png";
 import { Link } from "react-router-dom";
 import { BiBorderRadius } from "react-icons/bi";
 
